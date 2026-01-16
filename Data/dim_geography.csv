@@ -1,0 +1,307 @@
+CityState,City,State,CountryRegion,Continent
+Spokane-Washington,Spokane,Washington,United States,North America
+Bellflower-California,Bellflower,California,United States,North America
+Beaverton-Oregon,Beaverton,Oregon,United States,North America
+Walla Walla-Washington,Walla Walla,Washington,United States,North America
+San Gabriel-California,San Gabriel,California,United States,North America
+Lincoln Acres-California,Lincoln Acres,California,United States,North America
+Redmond-Washington,Redmond,Washington,United States,North America
+Bellingham-Washington,Bellingham,Washington,United States,North America
+Newport Beach-California,Newport Beach,California,United States,North America
+Seattle-Washington,Seattle,Washington,United States,North America
+Everett-Washington,Everett,Washington,United States,North America
+Burbank-California,Burbank,California,United States,North America
+San Francisco-California,San Francisco,California,United States,North America
+Yakima-Washington,Yakima,Washington,United States,North America
+Burlingame-California,Burlingame,California,United States,North America
+Berkeley-California,Berkeley,California,United States,North America
+Grossmont-California,Grossmont,California,United States,North America
+Lakewood-California,Lakewood,California,United States,North America
+San Diego-California,San Diego,California,United States,North America
+Oakland-California,Oakland,California,United States,North America
+San Carlos-California,San Carlos,California,United States,North America
+Fremont-California,Fremont,California,United States,North America
+Mill Valley-California,Mill Valley,California,United States,North America
+Chula Vista-California,Chula Vista,California,United States,North America
+Oregon City-Oregon,Oregon City,Oregon,United States,North America
+West Covina-California,West Covina,California,United States,North America
+Santa Cruz-California,Santa Cruz,California,United States,North America
+Colma-California,Colma,California,United States,North America
+Burien-Washington,Burien,Washington,United States,North America
+Concord-California,Concord,California,United States,North America
+National City-California,National City,California,United States,North America
+Torrance-California,Torrance,California,United States,North America
+Palo Alto-California,Palo Alto,California,United States,North America
+Redwood City-California,Redwood City,California,United States,North America
+Woodland Hills-California,Woodland Hills,California,United States,North America
+Lemon Grove-California,Lemon Grove,California,United States,North America
+Spring Valley-California,Spring Valley,California,United States,North America
+Santa Monica-California,Santa Monica,California,United States,North America
+Los Angeles-California,Los Angeles,California,United States,North America
+Imperial Beach-California,Imperial Beach,California,United States,North America
+Beverly Hills-California,Beverly Hills,California,United States,North America
+Downey-California,Downey,California,United States,North America
+La Jolla-California,La Jolla,California,United States,North America
+El Cajon-California,El Cajon,California,United States,North America
+Coronado-California,Coronado,California,United States,North America
+Daly City-California,Daly City,California,United States,North America
+Marysville-Washington,Marysville,Washington,United States,North America
+W. Linn-Oregon,W. Linn,Oregon,United States,North America
+Baytown-Texas,Baytown,Texas,United States,North America
+Chicago-Illinois,Chicago,Illinois,United States,North America
+Worcester-Massachusetts,Worcester,Massachusetts,United States,North America
+Woodburn-Oregon,Woodburn,Oregon,United States,North America
+Bremerton-Washington,Bremerton,Washington,United States,North America
+Long Beach-California,Long Beach,California,United States,North America
+Glendale-California,Glendale,California,United States,North America
+Novato-California,Novato,California,United States,North America
+Hamburg-Hamburg,Hamburg,Hamburg,Germany,Europe
+Eilenburg-Saxony,Eilenburg,Saxony,Germany,Europe
+Frankfurt-Hesse,Frankfurt,Hesse,Germany,Europe
+Paderborn-North Rhine-Westphalia,Paderborn,North Rhine-Westphalia,Germany,Europe
+Saarlouis-Saar,Saarlouis,Saar,Germany,Europe
+Berlin-Berlin,Berlin,Berlin,Germany,Europe
+Offenbach am Main-Hesse,Offenbach am Main,Hesse,Germany,Europe
+Werne-North Rhine-Westphalia,Werne,North Rhine-Westphalia,Germany,Europe
+Dresden-Saxony,Dresden,Saxony,Germany,Europe
+Neunkirchen-North Rhine-Westphalia,Neunkirchen,North Rhine-Westphalia,Germany,Europe
+Bottrop-North Rhine-Westphalia,Bottrop,North Rhine-Westphalia,Germany,Europe
+Sulzbach Taunus-Saar,Sulzbach Taunus,Saar,Germany,Europe
+Ingolstadt-Bavaria,Ingolstadt,Bavaria,Germany,Europe
+Darmstadt-Hesse,Darmstadt,Hesse,Germany,Europe
+Bonn-North Rhine-Westphalia,Bonn,North Rhine-Westphalia,Germany,Europe
+Erlangen-Bavaria,Erlangen,Bavaria,Germany,Europe
+Renton-Washington,Renton,Washington,United States,North America
+Tacoma-Washington,Tacoma,Washington,United States,North America
+Corvallis-Oregon,Corvallis,Oregon,United States,North America
+Lebanon-Oregon,Lebanon,Oregon,United States,North America
+Portland-Oregon,Portland,Oregon,United States,North America
+Lake Oswego-Oregon,Lake Oswego,Oregon,United States,North America
+Puyallup-Washington,Puyallup,Washington,United States,North America
+Issaquah-Washington,Issaquah,Washington,United States,North America
+Salem-Oregon,Salem,Oregon,United States,North America
+Kirkland-Washington,Kirkland,Washington,United States,North America
+Olympia-Washington,Olympia,Washington,United States,North America
+Edmonds-Washington,Edmonds,Washington,United States,North America
+Cheyenne-Wyoming,Cheyenne,Wyoming,United States,North America
+Sedro Woolley-Washington,Sedro Woolley,Washington,United States,North America
+Milwaukie-Oregon,Milwaukie,Oregon,United States,North America
+Port Orchard-Washington,Port Orchard,Washington,United States,North America
+Lynnwood-Washington,Lynnwood,Washington,United States,North America
+Cincinnati-Ohio,Cincinnati,Ohio,United States,North America
+Citrus Heights-California,Citrus Heights,California,United States,North America
+Ballard-Washington,Ballard,Washington,United States,North America
+Stuttgart-Baden-Wuerttemberg,Stuttgart,Baden-Wuerttemberg,Germany,Europe
+Hof-Bavaria,Hof,Bavaria,Germany,Europe
+Poing-Bavaria,Poing,Bavaria,Germany,Europe
+Hanover-Lower Saxony,Hanover,Lower Saxony,Germany,Europe
+Solingen-North Rhine-Westphalia,Solingen,North Rhine-Westphalia,Germany,Europe
+Dusseldorf-North Rhine-Westphalia,Dusseldorf,North Rhine-Westphalia,Germany,Europe
+Mühlheim am Main-Hesse,Mühlheim am Main,Hesse,Germany,Europe
+Munster-North Rhine-Westphalia,Munster,North Rhine-Westphalia,Germany,Europe
+Essen-North Rhine-Westphalia,Essen,North Rhine-Westphalia,Germany,Europe
+Bell Gardens-California,Bell Gardens,California,United States,North America
+City Of Commerce-California,City Of Commerce,California,United States,North America
+Clackamas-Oregon,Clackamas,Oregon,United States,North America
+Leipzig-Saxony,Leipzig,Saxony,Germany,Europe
+Kassel-Hesse,Kassel,Hesse,Germany,Europe
+Munich-Bavaria,Munich,Bavaria,Germany,Europe
+Saarbrücken-Saar,Saarbrücken,Saar,Germany,Europe
+Salzgitter-Lower Saxony,Salzgitter,Lower Saxony,Germany,Europe
+College Station-Texas,College Station,Texas,United States,North America
+Clay-New York,Clay,New York,United States,North America
+Columbus-Georgia,Columbus,Georgia,United States,North America
+Kiel-Schleswig-Holstein,Kiel,Schleswig-Holstein,Germany,Europe
+Brunswick-Lower Saxony,Brunswick,Lower Saxony,Germany,Europe
+Bradenton-Florida,Bradenton,Florida,United States,North America
+Grevenbroich-North Rhine-Westphalia,Grevenbroich,North Rhine-Westphalia,Germany,Europe
+Bluffton-South Carolina,Bluffton,South Carolina,United States,North America
+Camarillo-California,Camarillo,California,United States,North America
+Carol Stream-Illinois,Carol Stream,Illinois,United States,North America
+Canoga Park-California,Canoga Park,California,United States,North America
+Barstow-California,Barstow,California,United States,North America
+Casper-Wyoming,Casper,Wyoming,United States,North America
+Cedar City-Utah,Cedar City,Utah,United States,North America
+Chandler-Arizona,Chandler,Arizona,United States,North America
+Central Valley-New York,Central Valley,New York,United States,North America
+Bellevue-Washington,Bellevue,Washington,United States,North America
+Cheektowaga-New York,Cheektowaga,New York,United States,North America
+Branch-Minnesota,Branch,Minnesota,United States,North America
+Campbellsville-Kentucky,Campbellsville,Kentucky,United States,North America
+Carson-California,Carson,California,United States,North America
+Charlotte-North Carolina,Charlotte,North Carolina,United States,North America
+Albany-New York,Albany,New York,United States,North America
+Columbus-Ohio,Columbus,Ohio,United States,North America
+Alexandria-Virginia,Alexandria,Virginia,United States,North America
+Cedar Park-Texas,Cedar Park,Texas,United States,North America
+Anchorage-Alaska,Anchorage,Alaska,United States,North America
+Appleton-Wisconsin,Appleton,Wisconsin,United States,North America
+Arlington-Texas,Arlington,Texas,United States,North America
+Aurora-Colorado,Aurora,Colorado,United States,North America
+Austin-Texas,Austin,Texas,United States,North America
+Baltimore-Maryland,Baltimore,Maryland,United States,North America
+Bayonne-New Jersey,Bayonne,New Jersey,United States,North America
+Beaumont-Texas,Beaumont,Texas,United States,North America
+Berthoud-Colorado,Berthoud,Colorado,United States,North America
+Bethesda-Maryland,Bethesda,Maryland,United States,North America
+Annapolis-Maryland,Annapolis,Maryland,United States,North America
+Boston-Massachusetts,Boston,Massachusetts,United States,North America
+Billings-Montana,Billings,Montana,United States,North America
+Chantilly-Virginia,Chantilly,Virginia,United States,North America
+Boulder-Colorado,Boulder,Colorado,United States,North America
+Brooklyn-New York,Brooklyn,New York,United States,North America
+Atlantic City-New Jersey,Atlantic City,New Jersey,United States,North America
+Buffalo-New York,Buffalo,New York,United States,North America
+Braintree-Massachusetts,Braintree,Massachusetts,United States,North America
+Attleboro-Massachusetts,Attleboro,Massachusetts,United States,North America
+Cape May-New Jersey,Cape May,New Jersey,United States,North America
+Bangor-Maine,Bangor,Maine,United States,North America
+Bar Harbor-Maine,Bar Harbor,Maine,United States,North America
+Castle Rock-Colorado,Castle Rock,Colorado,United States,North America
+Charleston-South Carolina,Charleston,South Carolina,United States,North America
+Charlottesville-Virginia,Charlottesville,Virginia,United States,North America
+Clearwater-Florida,Clearwater,Florida,United States,North America
+Cheney-Washington,Cheney,Washington,United States,North America
+Cle Elum-Washington,Cle Elum,Washington,United States,North America
+Dallas-Texas,Dallas,Texas,United States,North America
+Darien-Connecticut,Darien,Connecticut,United States,North America
+Denton-Texas,Denton,Texas,United States,North America
+Burlington-Wisconsin,Burlington,Wisconsin,United States,North America
+Cape Canaveral-Florida,Cape Canaveral,Florida,United States,North America
+Denver-Colorado,Denver,Colorado,United States,North America
+Desoto-Texas,Desoto,Texas,United States,North America
+East Orange-New Jersey,East Orange,New Jersey,United States,North America
+East Troy-Wisconsin,East Troy,Wisconsin,United States,North America
+Edgerton-Wisconsin,Edgerton,Wisconsin,United States,North America
+Englewood-Colorado,Englewood,Colorado,United States,North America
+Clifton-New Jersey,Clifton,New Jersey,United States,North America
+Fall City-Washington,Fall City,Washington,United States,North America
+Bothell-Washington,Bothell,Washington,United States,North America
+Falmouth-Massachusetts,Falmouth,Massachusetts,United States,North America
+Fond du Lac-Wisconsin,Fond du Lac,Wisconsin,United States,North America
+Fort Atkinson-Wisconsin,Fort Atkinson,Wisconsin,United States,North America
+Fort Worth-Texas,Fort Worth,Texas,United States,North America
+Fort Lauderdale-Florida,Fort Lauderdale,Florida,United States,North America
+Framingham-Massachusetts,Framingham,Massachusetts,United States,North America
+Fredericksburg-Virginia,Fredericksburg,Virginia,United States,North America
+Georgetown-Texas,Georgetown,Texas,United States,North America
+Elmira-New York,Elmira,New York,United States,North America
+Germantown-Maryland,Germantown,Maryland,United States,North America
+Grand Prairie-Texas,Grand Prairie,Texas,United States,North America
+Granger-Washington,Granger,Washington,United States,North America
+Greeley-Colorado,Greeley,Colorado,United States,North America
+Green Bay-Wisconsin,Green Bay,Wisconsin,United States,North America
+Greenville-South Carolina,Greenville,South Carolina,United States,North America
+Beijing-Beijing,Beijing,Beijing,China,Asia
+Hartford-Connecticut,Hartford,Connecticut,United States,North America
+Haverhill-Massachusetts,Haverhill,Massachusetts,United States,North America
+Hillsboro-Texas,Hillsboro,Texas,United States,North America
+Grand Junction-Colorado,Grand Junction,Colorado,United States,North America
+Hingham-Massachusetts,Hingham,Massachusetts,United States,North America
+Houston-Texas,Houston,Texas,United States,North America
+Howard-Maryland,Howard,Maryland,United States,North America
+Humble-Texas,Humble,Texas,United States,North America
+Hackensack-New Jersey,Hackensack,New Jersey,United States,North America
+Ithaca-New York,Ithaca,New York,United States,North America
+Koln-North Rhine-Westphalia,Koln,North Rhine-Westphalia,Germany,Europe
+Jacksonville-Florida,Jacksonville,Florida,United States,North America
+Hoboken-New Jersey,Hoboken,New Jersey,United States,North America
+Jersey City-New Jersey,Jersey City,New Jersey,United States,North America
+Kennewick-Washington,Kennewick,Washington,United States,North America
+Holyoke-Massachusetts,Holyoke,Massachusetts,United States,North America
+Key West-Florida,Key West,Florida,United States,North America
+La Porte-Texas,La Porte,Texas,United States,North America
+Lafayette-Colorado,Lafayette,Colorado,United States,North America
+Guangzhou-GuangDong,Guangzhou,GuangDong,China,Asia
+Lakeland-Florida,Lakeland,Florida,United States,North America
+Lewiston-Maine,Lewiston,Maine,United States,North America
+Lewisville-Texas,Lewisville,Texas,United States,North America
+Longview-Texas,Longview,Texas,United States,North America
+Hong Kong-Hong Kong,Hong Kong,Hong Kong,China,Asia
+Loveland-Colorado,Loveland,Colorado,United States,North America
+Lowell-Massachusetts,Lowell,Massachusetts,United States,North America
+Lynn-Massachusetts,Lynn,Massachusetts,United States,North America
+Leominster-Massachusetts,Leominster,Massachusetts,United States,North America
+Madison-Wisconsin,Madison,Wisconsin,United States,North America
+Manitowoc-Wisconsin,Manitowoc,Wisconsin,United States,North America
+Littleton-Colorado,Littleton,Colorado,United States,North America
+Marshall-Texas,Marshall,Texas,United States,North America
+Martinsville-Virginia,Martinsville,Virginia,United States,North America
+Menasha-Wisconsin,Menasha,Wisconsin,United States,North America
+Miami-Florida,Miami,Florida,United States,North America
+Midland-Texas,Midland,Texas,United States,North America
+Milliken-Colorado,Milliken,Colorado,United States,North America
+Minden-Texas,Minden,Texas,United States,North America
+Montclair-New Jersey,Montclair,New Jersey,United States,North America
+Morristown-New Jersey,Morristown,New Jersey,United States,North America
+Nantucket-Massachusetts,Nantucket,Massachusetts,United States,North America
+Milwaukee-Wisconsin,Milwaukee,Wisconsin,United States,North America
+Naples-Florida,Naples,Florida,United States,North America
+New Bedford-Massachusetts,New Bedford,Massachusetts,United States,North America
+New Brunswick-New Jersey,New Brunswick,New Jersey,United States,North America
+New Castle-Colorado,New Castle,Colorado,United States,North America
+New Haven-Connecticut,New Haven,Connecticut,United States,North America
+New London-Connecticut,New London,Connecticut,United States,North America
+New York-New York,New York,New York,United States,North America
+Newark-New Jersey,Newark,New Jersey,United States,North America
+Norfolk-Virginia,Norfolk,Virginia,United States,North America
+North Bend-Washington,North Bend,Washington,United States,North America
+Northampton-Massachusetts,Northampton,Massachusetts,United States,North America
+Old Saybrook-Connecticut,Old Saybrook,Connecticut,United States,North America
+Orange-Texas,Orange,Texas,United States,North America
+Cerritos-California,Cerritos,California,United States,North America
+Oregon-Wisconsin,Oregon,Wisconsin,United States,North America
+Orono-Maine,Orono,Maine,United States,North America
+Orlando-Florida,Orlando,Florida,United States,North America
+Carrollton-Texas,Carrollton,Texas,United States,North America
+Parker-Colorado,Parker,Colorado,United States,North America
+Parkville-Maryland,Parkville,Maryland,United States,North America
+Oshkosh-Wisconsin,Oshkosh,Wisconsin,United States,North America
+Pasadena-Texas,Pasadena,Texas,United States,North America
+Paterson-New Jersey,Paterson,New Jersey,United States,North America
+Pittsfield-Massachusetts,Pittsfield,Massachusetts,United States,North America
+Plano-Texas,Plano,Texas,United States,North America
+Passaic-New Jersey,Passaic,New Jersey,United States,North America
+Plattsburgh-New York,Plattsburgh,New York,United States,North America
+Poestenkill-New York,Poestenkill,New York,United States,North America
+Shanghai-Shanghai,Shanghai,Shanghai,China,Asia
+Oswego-New York,Oswego,New York,United States,North America
+Quincy-Massachusetts,Quincy,Massachusetts,United States,North America
+Racine-Wisconsin,Racine,Wisconsin,United States,North America
+Port Washington-Wisconsin,Port Washington,Wisconsin,United States,North America
+Provincetown-Massachusetts,Provincetown,Massachusetts,United States,North America
+Ridgely-Maryland,Ridgely,Maryland,United States,North America
+Roanoke-Virginia,Roanoke,Virginia,United States,North America
+Richardson-Texas,Richardson,Texas,United States,North America
+Rochester-New York,Rochester,New York,United States,North America
+Round Rock-Texas,Round Rock,Texas,United States,North America
+San Antonio-Texas,San Antonio,Texas,United States,North America
+Bountiful-Utah,Bountiful,Utah,United States,North America
+Russellville-Texas,Russellville,Texas,United States,North America
+Sheboygan-Wisconsin,Sheboygan,Wisconsin,United States,North America
+Shreveport-Texas,Shreveport,Texas,United States,North America
+Byron-Georgia,Byron,Georgia,United States,North America
+Sebring-Florida,Sebring,Florida,United States,North America
+Sedalia-Colorado,Sedalia,Colorado,United States,North America
+Snoqualmie-Washington,Snoqualmie,Washington,United States,North America
+Somerville-Massachusetts,Somerville,Massachusetts,United States,North America
+South Portland-Maine,South Portland,Maine,United States,North America
+Spring-Texas,Spring,Texas,United States,North America
+Stoughton-Wisconsin,Stoughton,Wisconsin,United States,North America
+Sunnyside-Washington,Sunnyside,Washington,United States,North America
+Tallahassee-Florida,Tallahassee,Florida,United States,North America
+Syracuse-New York,Syracuse,New York,United States,North America
+Texas City-Texas,Texas City,Texas,United States,North America
+Tampa-Florida,Tampa,Florida,United States,North America
+Urumqi-Xinjiang,Urumqi,Xinjiang,China,Asia
+Thornton-Colorado,Thornton,Colorado,United States,North America
+Toppenish-Washington,Toppenish,Washington,United States,North America
+Veradale-Washington,Veradale,Washington,United States,North America
+Trenton-New Jersey,Trenton,New Jersey,United States,North America
+Vineland-New Jersey,Vineland,New Jersey,United States,North America
+Virginia Beach-Virginia,Virginia Beach,Virginia,United States,North America
+Wapato-Washington,Wapato,Washington,United States,North America
+Waterbury-Connecticut,Waterbury,Connecticut,United States,North America
+Waukesha-Wisconsin,Waukesha,Wisconsin,United States,North America
+Wheat Ridge-Colorado,Wheat Ridge,Colorado,United States,North America
+Winchester-Virginia,Winchester,Virginia,United States,North America
